@@ -10,4 +10,4 @@ To clone this project follow below steps:
 
 # Demo
 
-![Pic 1](/Demo/Step-1.png) ![Pic 2](/Demo/Step-2.png) ![Pic 3](/Demo/Step-3.png)
+![Pic 1](/Demo/Step-1.png) ![Pic 2](/Demo/Step-2.png) ![Pic 3](/Demo/Step-3.png =200x200)
