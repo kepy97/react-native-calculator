@@ -10,4 +10,8 @@ To clone this project follow below steps:
 
 # Demo
 
-![Pic 1](/Demo/Step-1.png) ![Pic 2](/Demo/Step-2.png) ![Pic 3](/Demo/Step-3.png)
+<p float="left">
+  <img src="/Demo/Step-3.png" width="200" height="400" />
+  <img src="/Demo/Step-2.png" width="200" height="400" /> 
+  <img src="/Demo/Step-1.png" width="200" height="400" />
+</p>
