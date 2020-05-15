@@ -14,6 +14,7 @@ const inputButtons = [
     [0,'-','+','=']
 ];
 
+
 export default class CalculatorLayout extends Component {
     constructor(props) {
         super(props);
