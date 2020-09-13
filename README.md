@@ -15,3 +15,6 @@ To clone this project follow below steps:
   <img src="/Demo/Step-2.png" width="200" height="400" /> 
   <img src="/Demo/Step-1.png" width="200" height="400" />
 </p>
+
+#### Checkout "Project section" for more details: https://kepy.online/
+#### Checkout Video Demo of this project: https://youtu.be/QItwyQBLwDU
